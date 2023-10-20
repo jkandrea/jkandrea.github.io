@@ -160,10 +160,10 @@ header_pages:
 #   - about.md
 
 # Page default value
-# defaults:
-#  home:
-#     heading: "쥐나개나 코딩"
-#     subheading: "코딩 별거 많죠. 최대한 담아봤습니다."
+defaults:
+ home:
+   heading: Mouse and Dog Coding
+   subheading: Everybody can coding
 #     banner: "Your image url"
 
 # Banner default settings
