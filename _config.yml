@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 쥐나개나 코딩
+title: "쥐나개나 코딩"
 email: jhonbeetbox@naver.com
 author: moudog
 
@@ -43,8 +43,7 @@ author: moudog
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  코딩을 처음 접하는 초보부터 갑작스런 에러에 당황한 개발자들까지 
-  모두에게 도움을 주기 위한 쥐나개나 코딩 블로그입니다.
+  "코딩을 처음 접하는 초보부터 갑작스런 에러에 당황한 개발자들까지 모두에게 도움을 주기 위한 쥐나개나 코딩 블로그입니다."
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jkandrea.github.io # the base hostname & protocol for your site, e.g. https://example.com
