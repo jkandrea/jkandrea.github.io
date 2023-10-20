@@ -43,10 +43,12 @@ author: moudog
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  "코딩을 처음 접하는 초보부터 갑작스런 에러에 당황한 개발자들까지 모두에게 도움을 주기 위한 쥐나개나 코딩 블로그입니다."
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://jkandrea.github.io # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: / # the subpath of your site, e.g. /blog
+url: https://jkandrea.github.io/ # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
@@ -71,7 +73,7 @@ yat:
 sitemap: true
 
 # If you want to change site language, you can set lang option
-# lang: ko  # default lang is en
+# lang: "ko"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -159,9 +161,9 @@ sitemap: true
 
 # Page default value
 # defaults:
-   home:
-     heading: "쥐나개나 코딩"
-     subheading: "코딩 별거 많죠. 최대한 담아봤습니다."
+#  home:
+#     heading: "쥐나개나 코딩"
+#     subheading: "코딩 별거 많죠. 최대한 담아봤습니다."
 #     banner: "Your image url"
 
 # Banner default settings
